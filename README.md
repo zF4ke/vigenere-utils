@@ -50,7 +50,7 @@ Ferramentas Python para criptoanálise e recuperação de chaves da cifra de Vig
 
 ### `vig_nletras.py` — Versão Intermediária
 
-nalisa palavras cifradas de tamanho variável (entre `MIN_KEY_LEN` e `MAX_KEY_LEN`) porém só funciona para ciphertexts com uma única palavra.
+Analisa palavras cifradas de tamanho variável (entre `MIN_KEY_LEN` e `MAX_KEY_LEN`) porém só funciona para ciphertexts com uma única palavra.
 
 ---
 
